@@ -4,6 +4,7 @@ permalink: /_pages/about/
 ---
 
 🙋‍♂ all. Let me introduce myself:
+
 I consider myself a curious person who likes to spend my free time learning new things, riding a bike and traveling. 
 As you can guess by looking at the picture, cycling is a true passion for me. I ride since I was 4 and it helps me to feel healthy, 
 to spend time with friends and to discover the nature. 

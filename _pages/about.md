@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about/
+header:
+  image: "/images/cto_mtb.jpg"
 ---
 
 🙋‍♂ all. Let me introduce myself:
