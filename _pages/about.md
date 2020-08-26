@@ -3,6 +3,8 @@ title: "About"
 permalink: /about/
 header:
   image: "/images/cto_mtb.jpg"
+    width: 10px
+    height: 10px
 ---
 
 🙋‍♂ all. Let me introduce myself:
