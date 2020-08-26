@@ -2,9 +2,8 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/cto_mtb.jpg"
-    width: 10px
-    height: 10px
+#  image: "/images/cto_mtb.jpg"
+  image: <img src="/images/cto_mtb.jpg" width="48">
 ---
 
 🙋‍♂ all. Let me introduce myself:
