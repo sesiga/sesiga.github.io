@@ -8,7 +8,12 @@ permalink: /about/
 
 # Web under construction
 
-{% include figure image_path="/images/cto_mtb.jpg" alt="this is a placeholder image" caption="Spanish championship of MTB, 2014" %}
+<!-- {% include figure image_path="/images/cto_mtb.jpg" alt="this is a placeholder image" caption="Spanish championship of MTB, 2014" %} -->
+
+<figure>
+  <img src="/images/cto_mtb.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
 
 
 🙋‍♂ all. Let me introduce myself:
