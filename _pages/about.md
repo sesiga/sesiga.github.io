@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 header:
 #  image: "/images/cto_mtb.jpg"
-  <img src="https://raw.githubusercontent.com/sesiga/sesiga.github.io/master/images/cto_mtb.jpg" width="48">
+  image: {% include figure image_path="/images/cto_mtb.jpg" alt="this is a placeholder image" caption="Spanish Championship 2014." %}
 ---
 
 # Web under construction
