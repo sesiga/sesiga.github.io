@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 header:
 #  image: "/images/cto_mtb.jpg"
-  image: <img src="/images/cto_mtb.jpg" width="48">
+  image: <img src="https://github.com/sesiga/sesiga.github.io/blob/master/images/cto_mtb.jpg" width="48">
 ---
 
 # Web under construction
