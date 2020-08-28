@@ -1,9 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-# header:
+header:
 #  image: "/images/cto_mtb.jpg"
-#   image: <img src="https://raw.githubusercontent.com/sesiga/sesiga.github.io/master/images/cto_mtb.jpg" width="48">
+  image: <img src="images/cto_mtb.jpg" width="48">
 ---
 
 # Web under construction
