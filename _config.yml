@@ -97,14 +97,8 @@ analytics:
 # Site Author
 author:
   name             : "Sergio Sierra"
-  avatar           : /images/portrait.jpg
-  bio              : "🙋‍♂ all. Let me introduce myself:"
-                      # I consider myself a curious person who likes to spend my free time learning new things, riding a bike and traveling. 
-                      # As you can guess by looking at the picture, cycling is a true passion for me. I ride since I was 4 and it helps me to feel healthy, 
-                      # to spend time with friends and to discover the nature. 
-                      # The picture was taken back in 2014 at the Spanish National Championship where I took the 9th position.
-                      # What about the curiosity? 
-                      # In July 2020 I earned a master’s degree in Statistics for Data Science. Previously, from 2014 to 2018, I earned a bachelor’s degree in Aerospace Engineering. During my high school years, I knew that I wanted to study something related to mathematics and physics. The passion for planes and space together with the curiosity to know how they work helped me decide. During that time, I asked a math professor to give me programming classes. I really enjoyed them, and I looked for other fields related with math and programming. Data science combines them all and I decided to move to that field. I started learning statistics and machine learning with python and R on my own. Soon after, I got hired at a consulting firm. After almost a year, I started the master’s degree."
+  avatar           : /images/portrait2.jpg
+  bio              : "Find me also at:"
   location         : "Madrid, Spain"
   email            : "s.sierra.garrido@gmail.com"
   links:
@@ -114,18 +108,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sesiga.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sesiga"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sergio-sierra-garrido/"
@@ -145,24 +130,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sergio-sierra-garrido/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
