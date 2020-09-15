@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home page"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Home page"
+name                     : "Sergio Sierra"
 description              : "Hi all! I invite you to navigate over the projects I have worked on."
 url                      : https://www.sergiosierrag.com/ #"https://sesiga.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
