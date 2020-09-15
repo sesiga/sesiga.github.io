@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sergio Sierra"
 description              : "Hi all! I invite you to navigate over the projects I have worked on."
-url                      : "https://sesiga.github.io"
+url                      : https://www.sergiosierrag.com/ #"https://sesiga.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/portrait.jpg"
-logo                     : "/images/portrait.jpg"
+logo                     : "/images/portrait.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,24 +96,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sergio Sierra"
-  avatar           : /images/portrait2.jpeg
+  name             : #"Sergio Sierra"
+  avatar           : #/images/portrait2.jpeg
   bio              : "Find me also at:"
   location         : "Madrid, Spain"
   email            : "s.sierra.garrido@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:s.sierra.garrido@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:s.sierra.garrido@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sesiga.github.io"
+      url: "https://www.sergiosierrag.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sesiga"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sergio-sierra-garrido/"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/4697743"
 
 # Site Footer
 footer:
@@ -123,13 +126,16 @@ footer:
       url: "mailto:s.sierra.garrido@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sesiga.github.io"
+      url: "https://www.sergiosierrag.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sesiga"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sergio-sierra-garrido/"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/4697743"
 
 
 # Reading Files
