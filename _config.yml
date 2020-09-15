@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sergio-sierra-garrido/"
     - label: "Strava"
-      icon: "fab fa-strava"
+      icon: <i class='fab fa-strava' style='font-size:48px;color:orange'></i> #"fab fa-strava"
       url: "https://www.strava.com/athletes/4697743"
 
 # Site Footer
