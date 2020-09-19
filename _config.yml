@@ -117,6 +117,9 @@ author:
     - label: "Strava"
       icon: "fab fa-strava"
       url: "https://www.strava.com/athletes/4697743"
+    - label: "Chess"
+      icon: "fas fa-chess"
+      url: "https://www.chess.com/member/sesiga"
 
 # Site Footer
 footer:
@@ -136,6 +139,9 @@ footer:
     - label: "Strava"
       icon: "fab fa-strava"
       url: "https://www.strava.com/athletes/4697743"
+    - label: "Chess"
+      icon: "fas fa-chess"
+      url: "https://www.chess.com/member/sesiga"
 
 
 # Reading Files
